@@ -1,0 +1,52 @@
+01:22:50 AM: INFO [menu.py:16] Usuario: 1 ecastillo 1234
+01:22:50 AM: INFO [menu.py:16] Usuario: 2 dfrias 5678
+01:23:14 AM: INFO [menu.py:18] Saliendo de la aplicacion
+01:34:04 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:34:04 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:34:52 AM: INFO [menu.py:23] Usuarios insertados: 1
+01:35:08 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:35:08 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:35:08 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:38:03 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:38:03 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:38:03 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:38:29 AM: INFO [menu.py:23] Usuarios insertados: 1
+01:38:31 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:38:31 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:38:31 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:38:31 AM: INFO [menu.py:17] Usuario: 4 mluna 5555
+01:40:49 AM: INFO [menu.py:35] Usuarios eliminados: 1
+01:40:53 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:40:54 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:40:54 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:44:52 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:44:52 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:44:52 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:45:29 AM: INFO [menu.py:23] Usuarios insertados: 1
+01:45:31 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:45:31 AM: INFO [menu.py:17] Usuario: 2 dfrias 5678
+01:45:31 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:45:31 AM: INFO [menu.py:17] Usuario: 5 mmondragon 9876
+01:45:54 AM: INFO [menu.py:30] Usuarios actualizados: 1
+01:45:59 AM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+01:45:59 AM: INFO [menu.py:17] Usuario: 2 lperez 4455
+01:45:59 AM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+01:45:59 AM: INFO [menu.py:17] Usuario: 5 mmondragon 9876
+06:35:26 PM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+06:35:26 PM: INFO [menu.py:17] Usuario: 2 lperez 4455
+06:35:26 PM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+06:35:26 PM: INFO [menu.py:17] Usuario: 5 mmondragon 9876
+06:35:50 PM: INFO [menu.py:37] Saliendo de la aplicacion
+06:36:55 PM: INFO [menu.py:17] Usuario: 1 ecastillo 1234
+06:36:55 PM: INFO [menu.py:17] Usuario: 2 lperez 4455
+06:36:55 PM: INFO [menu.py:17] Usuario: 3 rgonzalez 1111
+06:36:55 PM: INFO [menu.py:17] Usuario: 5 mmondragon 9876
+06:42:35 PM: WARNING [menu.py:20] Usuario: 1 ecastillo 1234
+06:42:35 PM: WARNING [menu.py:20] Usuario: 2 lperez 4455
+06:42:35 PM: WARNING [menu.py:20] Usuario: 3 rgonzalez 1111
+06:42:35 PM: WARNING [menu.py:20] Usuario: 5 mmondragon 9876
+06:46:22 PM: WARNING [menu.py:19] Usuario: 1 ecastillo 1234
+06:46:22 PM: WARNING [menu.py:19] Usuario: 2 lperez 4455
+06:46:22 PM: WARNING [menu.py:19] Usuario: 3 rgonzalez 1111
+06:46:22 PM: WARNING [menu.py:19] Usuario: 5 mmondragon 9876
+06:46:52 PM: WARNING [menu.py:26] Usuarios insertados: 1
